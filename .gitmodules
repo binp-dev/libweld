@@ -1,0 +1,3 @@
+[submodule "libcandev"]
+	path = libcandev
+	url = https://github.com/binp-xenomai/libcandev.git
